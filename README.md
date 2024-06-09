@@ -1,1 +1,3 @@
 # Assignment-CSP
+
+Uno de los problemas de optimización combinatoria más conocidos es el problema de asignación. Por ejemplo, supongamos que un grupo de trabajadores necesita realizar un conjunto de tareas y que hay un costo por asignar el trabajador a cada tarea. El problema es asignar a cada trabajador como máximo una tarea, sin que dos trabajadores realicen la misma tarea, y, al mismo tiempo, se minimiza el costo total.
